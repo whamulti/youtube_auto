@@ -1,0 +1,9 @@
+coqui-tts==0.24.3
+moviepy==1.0.3
+mutagen==1.47.0
+requests==2.31.0
+pillow==9.5.0
+google-auth==2.28.1
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.126.0
+transformers==4.43.2
